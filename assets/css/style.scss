@@ -3,7 +3,10 @@
 
 @import "{{ site.theme }}";
 
-#header nav ul:first,
+#header nav {
+  display: none;
+}
+
 .credits {
   display: none;
 }
