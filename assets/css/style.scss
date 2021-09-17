@@ -3,8 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
-  h2 {
-   color: #ff0000;
- }
+#header nav ul:first,
+.credits {
+  display: none;
 }
