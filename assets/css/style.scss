@@ -3,10 +3,8 @@
 
 @import "{{ site.theme }}";
 
-#header {
-  display: none;
-}
-
+#header,
+.page-header a.btn,
 .credits {
   display: none;
 }
