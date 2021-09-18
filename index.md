@@ -9,6 +9,10 @@ Please visit our [online store](https://miningcore-support.myshopify.com/) for m
 
 ## Custom Coin Integration
 
-Are you working on a new mineable crypto-currency and need a pool software supporting your coin? Feel free to talk to us using the chat widget below or send an email to [support@miningcore.dev](mailto:support@miningcore.dev). Minimum fee 10000€ - serious inquiries only please.
+Are you working on a new mineable crypto-currency and need a pool software supporting your coin? Minimum fee 10000€ - serious inquiries only please.
+
+## Questions?
+
+Feel free to talk to us using the chat widget below or send an email to [support@miningcore.dev](mailto:support@miningcore.dev) prior to ordering.
 
 <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/25078611.js"></script>
