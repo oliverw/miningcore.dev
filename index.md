@@ -1,42 +1,8 @@
-# Miningcore Commercial Support
+## Standard Support Packages
 
-You can use the [editor on GitHub](https://github.com/oliverw/miningcore.dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Each of these packages comes with a full month of discord support. Upon order completion you will be contacted by email within 24 hours to arrange the installation environment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oliverw/miningcore.dev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-<div id='collection-component-1631977818704'></div>
+<div id='collection-component-1631980455428'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -65,7 +31,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '280818516167',
-        node: document.getElementById('collection-component-1631977818704'),
+        node: document.getElementById('collection-component-1631980455428'),
         moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
         options: {
   "product": {
@@ -88,6 +54,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
           "padding-top": "calc(75% + 15px)",
           "position": "relative",
           "height": "0"
+        }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#138a4e"
+        },
+        "background-color": "#159957",
+        ":focus": {
+          "background-color": "#138a4e"
         }
       }
     },
@@ -118,6 +93,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
           "margin-left": "0px",
           "margin-bottom": "0px"
         }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#138a4e"
+        },
+        "background-color": "#159957",
+        ":focus": {
+          "background-color": "#138a4e"
+        }
       }
     },
     "text": {
@@ -126,12 +110,35 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   },
   "option": {},
   "cart": {
+    "styles": {
+      "button": {
+        ":hover": {
+          "background-color": "#138a4e"
+        },
+        "background-color": "#159957",
+        ":focus": {
+          "background-color": "#138a4e"
+        }
+      }
+    },
     "text": {
       "total": "Subtotal",
       "button": "Checkout"
     }
   },
-  "toggle": {}
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#159957",
+        ":hover": {
+          "background-color": "#138a4e"
+        },
+        ":focus": {
+          "background-color": "#138a4e"
+        }
+      }
+    }
+  }
 },
       });
     });
