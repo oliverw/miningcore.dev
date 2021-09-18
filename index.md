@@ -1,7 +1,6 @@
 <p align="center">
-  ### Standard Support Packages
-
 Each of these packages comes with a full month of discord support. Upon order completion you will be contacted by email within 24 hours to arrange the installation environment.
+<br/>
 </p>
 
 <div id='collection-component-1631980455428'></div>
