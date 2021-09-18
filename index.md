@@ -1,5 +1,3 @@
-### Mining Pool Installation
-
 There are several Miningcore Installation packages available from our [online store](https://miningcore-support.myshopify.com/). Each of these packages comes with a full month of Discord support.
 
 Upon order completion you will be contacted by Email within 24 hours to arrange the details.
