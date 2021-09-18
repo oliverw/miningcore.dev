@@ -1,6 +1,6 @@
 <p align="center">
 Each of these packages comes with a full month of discord support. Upon order completion you will be contacted by email within 24 hours to arrange the installation environment.
-<br/>
+<br/><br/>
 </p>
 
 <div id='collection-component-1631980455428'></div>
