@@ -5,7 +5,7 @@ title: Miningcore Commercial Support
 
 If you would like to run a mining pool but the thought of setting up all the software and associated infrastructure is a bit daunting, we might have a solution for you. You provide the necessary hardware or cloud infrastructure and we take care of getting everything up and running for you and providing support during your first month of operation. 
 
-Please visit our [online store](https://miningcore-support.myshopify.com/) for more information. 
+Please visit our [online store](https://miningcore.gumroad.com/) for more information. 
 
 ## Custom Coin Integration
 
