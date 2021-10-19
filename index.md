@@ -7,7 +7,7 @@ If you'd like to start your own Mining Pool without dealing with all the complex
 
 It works like this: You provide the hardware or cloud infrastructure and we take care of getting everything set up for you. Support during your critical first month of operation is included with all installation packages. Ongoing support can be purchased seperately.
 
-Visit our [online store](https://miningcore.gumroad.com/) for more information. 
+Visit our [online store](https://store.miningcore.dev/) for more information. 
 
 ## Custom Coin Integration
 
